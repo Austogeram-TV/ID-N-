@@ -1,0 +1,131 @@
+#EXTM3U
+
+#EXTINF: -1 group-title="Sports", Live Sports
+http://15.1.5.22:8082/1LIVE/tracks-v1a1/mono.m3u8?token=7310d4bc30192a56b3b552299c4b7466321f81bb-e87b9bc5c5d1b5dda8e4092c38d3523f-1690164767-1690153967
+
+#EXTINF: -1 group-title="Sports", TSports HD
+http://12.1.1.1:8082/T-Sports/tracks-v1a1/mono.m3u8?token=a98b02c4fdcdb13f4571a3236e4475e1820dc12b-db6c0e0a7f96be65ecbcc5f3921a9ff8-1690417069-1690406269
+
+#EXTINF: -1 group-title="Sports", PTV Sports HD
+http://15.1.5.14:8082/PTV/tracks-v1a1/mono.m3u8?token=f88bf8367cf3088dd3ecedd82c5803538815eadc-6921bb353d34196abe932cfd8a415ad1-1690165292-1690154492
+
+#EXTINF: -1 group-title="Sports", Star Sports 1 HD
+http://15.1.5.22:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8?token=7d31e2ba1d25f2e30818cce2fb93e96cefc9f4ef-048ba510978a64199c3980b4102ab816-1690165656-1690154856
+
+#EXTINF: -1 group-title="Sports", Star Sports 2 HD
+http://15.1.5.22:8082/STAR-SPORTS-2/tracks-v1a1/mono.m3u8?token=c264c00d4a060b3623225f39a5fe6bb7297ecfbd-1b1a55088ad19901b65f89ae66a6fc74-1690165739-1690154939
+
+#EXTINF: -1 group-title="Sports", Star Sports 3 HD
+http://15.1.5.14:8082/STAR-SPORTS-3/tracks-v1a1/mono.m3u8?token=369d38e0788d1e34992d7aaa4064d282fb94d3a0-44e5bac22a01f497614c4acf2902382c-1690165878-1690155078
+
+#EXTINF: -1 group-title="Sports", AD Sports 1HD
+http://15.1.5.22:8082/Adsports1/tracks-v1a1/mono.m3u8?token=f17ae821371dbab7817218e1e2f69b2634b3c4c8-ab23843a05eeca04fb56965d16a6991a-1690165849-1690155049
+
+#EXTINF: -1 group-title="Sports", AD Sports 2 HD
+http://15.1.5.18:8082/Adsports2/tracks-v1a1/mono.m3u8?token=757ddbef02f5a3d5ee4979f530cb0a6fb1e24e4f-5a1eb63bb7f1832f97875260ab241cb4-1690165891-1690155091
+
+#EXTINF: -1 group-title="Sports", Sony Sports 5 HD
+http://15.1.5.10:8082/sony-six-hd/tracks-v1a1/mono.m3u8?token=a78e60abb5583d6544a0974bfde96cb4d0b176c3-a301d569fca99532ad23c178a06f7f84-1690166065-1690155265
+
+#EXTINF: -1 group-title="Sports", Sony Sports 1 HD
+http://15.1.5.14:8082/ten1-hd/tracks-v1a1/mono.m3u8?token=f40d0fd241908e857e5bd56e9a7ae76fb850c30c-ab728cf7832eaff99020ff76eedd164a-1690166191-1690155391
+
+#EXTINF: -1 group-title="Sports", Sony Sports 2 HD
+http://15.1.5.10:8082/sony-ten2/tracks-v1a1/mono.m3u8?token=de0febb978c3609231588ab6846dbc8ecc24b569-ca19e5c13b57542ec0280c017a00ae1b-1690166211-1690155411
+
+#EXTINF: -1 group-title="Sports", Sony Sports 3 HD
+http://15.1.5.14:8082/ten3/tracks-v1a1/mono.m3u8?token=c05717f0c4b80735a0daeabd09990b866040c5b5-82973bc0964524c3ff9a884816a6678c-1690166324-1690155524
+
+#EXTINF: -1 group-title="Sports", Star Sports Select 1 HD
+http://15.1.5.10:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8?token=0985e54da84ba9a42d703ae019d8f2881e06d753-3bd59301dfb6cb5159cc06345f1d6a5e-1690166329-1690155529
+
+#EXTINF: -1 group-title="Sports", Star Sports Select 2 HD
+http://15.1.5.18:8082/select2/tracks-v1a1/mono.m3u8?token=125cfe6bca16b3de427ae51a1e87b0bf57c3192f-fe3353f75db0c2e89040ad726633ed88-1690166373-1690155573
+
+#EXTINF: -1 group-title="Bangla", BTV
+http://15.1.5.10:8082/btv/tracks-v1a1/mono.m3u8?token=26642a03515441bc543b3d2694dcd444daa7607c-21ca3ccd1ce343b4ca59d91b8ecce38e-1690369157-1690358357
+
+#EXTINF: -1 group-title="Bangla", Desh TV
+http://15.1.5.18:8082/DESH-TV/tracks-v1a1/mono.m3u8?token=d724196ef8359ef07fffbb316fe725c4d3851b08-eb988b84a133a9045e056c10c4f1118a-1690369281-1690358481
+
+#EXTINF: -1 group-title="Indian Bangla", Enter10 Bangla
+http://15.1.5.10:8082/enterr10-bangla/tracks-v1/mono.m3u8?token=9f2efc4708709d4dc62bf71f819708161e272113-09b9ccb072c1fe23c682ffdcd0a3b666-1690369334-1690358534
+
+#EXTINF: -1 group-title="Indian Bangla", Start Jalsha
+http://15.1.5.14:8082/jalsha/tracks-v1a1/mono.m3u8?token=e4cfaf7557548db99b95ac3cbf7c5f2287c0bef4-ef28abb50962b3eabc5d850ed6bdd371-1690369452-1690358652
+
+#EXTINF: -1 group-title="Indian Bangla", Zee Bangla
+http://15.1.5.14:8082/zee-bangla/tracks-v1a1/mono.m3u8?token=f1fd7b1edd763a14be0055646ad59cecbde998f1-3ebcc5a52e4157ec111541e9b93b92a9-1690369508-1690358708
+
+#EXTINF: -1 group-title="Indian Bangla", Sony AAT
+http://15.1.5.18:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=16636ac919ed02aeaa375d314e2b23b221ed9b1a-89cb158739fa8b461ad6bd3cf1d78fa4-1690369501-1690358701
+
+#EXTINF: -1 group-title="Indain Bangla", Sun Bangla
+http://15.1.5.10:8082/sunbangla/tracks-v1a1/mono.m3u8?token=2afa305be6c3e50113ca5adfa6efc19a7eda58d8-553a377197d983f78297575ddb0510df-1690369543-1690358743
+
+#EXTINF: -1 group-title="Indian Bangla", ZEE Bangla Cinema
+http://15.1.5.14:8082/zee-bangla-cinema/tracks-v1a1/mono.m3u8?token=5c38eed9ba2b602335688551179c9353ece0cb65-79cd4c17ce8a0d3a6d00ee3a1d1422a7-1690369657-1690358857
+
+#EXTINF: -1 group-title="Indian Bangla", Jalsha Movies
+http://15.1.5.14:8082/jalsha-movies/tracks-v1a1/mono.m3u8?token=fe72098a7b681a0c55a380ee04cbffc7741e9813-2a0d0955ad14567d1d81e993cc20506a-1690369707-1690358907
+
+#EXTINF: -1 group-title="Indian Bangla", Colors Bangla
+http://15.1.5.18:8082/colore-bangla-cinema/tracks-v1a1/mono.m3u8?token=0f75b0a891c8231e50b93b5f5eb08ebb756fc0a6-e3b41419f79680ad5fa22199985eefa7-1690369683-1690358883
+
+
+#EXTINF: -1 group-title="Bangla", Nexus TV
+http://15.1.5.10:8082/nexus/tracks-v1a1/mono.m3u8?token=dd7f5cf72fefa4e477b19d500117a74006bcc12f-fa8d8246b0ae4d26c7f7a6e7ca32dfaf-1690369727-1690358927
+
+#EXTINF: -1 group-title="Bangla", Duronto TV
+http://15.1.5.14:8082/duronto-tv/tracks-v1a1/mono.m3u8?token=1fc34b7718119498d6d09f676cc2a852ab33e556-f7fd3335cb1fa6d9c85eccdb4cecd5ba-1690369826-1690359026
+
+
+#EXTINF: -1 group-title="Bangla", DBC News
+http://15.1.5.22:8082/DBC-NEWS/tracks-v1a1/mono.m3u8?token=b5b0d7e3d7db316724f4ec1dfda2782bf5ffdcfe-35b847836ab70783206dc59a376ad797-1690369792-1690358992
+
+
+#EXTINF: -1 group-title="Bangla", Somoy News
+http://15.1.5.22:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=4779c232f5e4a9491871c92e437327886f7ded3c-ae7dfec9b8a619421c70d6a0191dab5e-1690369853-1690359053
+
+#EXTINF: -1 group-title="Bangla", Independant News
+http://15.1.5.14:8082/Independent-Tv/tracks-v1a1/mono.m3u8?token=241fcedd30061780cafcc0f953831ad4da51ca20-fa823a6fc597e625c77e4f7d2af7ad6a-1690369968-1690359168
+
+#EXTINF: -1 group-title="Bangla", Jamuna News
+http://15.1.5.10:8082/jamuna-tv/tracks-v1a1/mono.m3u8?token=cdbdb0389a1876e5eab3a6a805656ac399a03112-c1154e9613dfdec613d7c5262c6ade6b-1690369941-1690359141
+
+#EXTINF: -1 group-title="Bangla", News 24
+http://15.1.5.14:8082/News24bd/tracks-v1a1/mono.m3u8?token=a36bcb58d343cd860a44b774db5a74f55f770e2a-a0158dfdc01199c1cbb1db000f010717-1690370062-1690359262
+
+#EXTINF: -1 group-title="Bangla", ATN Bangla
+http://15.1.5.14:8082/ATN-Bangla/tracks-v1a1/mono.m3u8?token=7877d7c2fae3752e6f8824e1bdbcb8e985adcf91-75c3df61037d50489b9f145e4a74106d-1690370123-1690359323
+
+#EXTINF: -1 group-title="Bangla", Banglavision
+http://15.1.5.18:8082/Channel-i/tracks-v1a1/mono.m3u8?token=38e58c55485f8c2e73e14d7902d4df0e8c80c5f1-4d201731bf6362428c7871e9b4449ee6-1690370085-1690359285
+
+#EXTINF: -1 group-title="Bangla", Ekushey TV
+http://15.1.5.10:8082/Ekushey-TV/tracks-v1a1/mono.m3u8?token=40f5578f1f4f75464f142fdf1f550872aa202e3f-a3382177428c204ba6ed2b94d2be8288-1690370165-1690359365
+
+
+#EXTINF: -1 group-title="Bangla", NTV
+http://15.1.5.22:8082/Ntv/tracks-v1a1/mono.m3u8?token=d156b6631e9d2ca87197bf5691e49b9bc4921e2a-1527c407a1cb3e983f438a9ad20b3e6c-1690370198-1690359398
+
+#EXTINF: -1 group-title="Bangla", SA TV
+http://15.1.5.10:8082/SATV/tracks-v1a1/mono.m3u8?token=613c3855aab205fde59326429f77a937254d8944-27f4f72561fdaebc81951cc4de24adfe-1690370249-1690359449
+
+#EXTINF: -1 group-title="Bangla", Asian TV
+http://15.1.5.14:8082/AsianTV/tracks-v1a1/mono.m3u8?token=d89df695c69ccf5d7bc19659b783f73c55c94a5a-eaf6d2e3b880468490f7eaa18ab147a4-1690370345-1690359545
+
+#EXTINF: -1 group-title="Bangla", Boishakhi TV
+http://15.1.5.18:8082/Boishakhi/tracks-v1a1/mono.m3u8?token=a16ec371fb919e157f54c422d3f9e310488d226e-e0832c7db50f0f36aa4e7aae852d5b6a-1690370323-1690359523
+
+#EXTINF: -1 group-title="Bangla", Deepto TV
+http://15.1.5.18:8082/depto-bangla/tracks-v1a1/mono.m3u8?token=4c4c4c048fe03117110b74cda08a0ccba911f06c-c227a3d65f7cbd297801bcb0b2817b30-1690370364-1690359564
+
+#EXTINF: -1 group-title="Bangla" group-title="Music", Gaan Bangla
+http://15.1.5.14:8082/GaanBangla/tracks-v1a1/mono.m3u8?token=2a8cc11ed9a5aa7ca170690bde022707af7ec795-ab032586cd6e8aad4026aadd520dadcd-1690370459-1690359659
+
+#EXTINF: -1 group-title="Bangla", Ananda TV
+http://15.1.5.14:8082/anandotv/tracks-v1a1/mono.m3u8?token=b0d66a10684137da400e77ce7fd4e90b5a82552b-64f10a2e1b220b27b9118847b35c15b8-1690370543-1690359743
+
+#EXTINF: -1 group-title="Music", Mastii
+http://15.1.5.10:8082/Masti-Music/tracks-v1a1/mono.m3u8?token=da5e573904b15d5c74a645c50016af44ed14d107-7ab714a6b6624e41c5ea4e631ea34cb0-1690370621-1690359821
